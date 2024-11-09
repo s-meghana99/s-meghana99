@@ -19,7 +19,7 @@
 - Bachelor of Science from University of Mysore (2017-2020)
 
 ## 📫 How to reach me
-- Email: smeghana215@gmail.com
+- Email: smeghana855@gmail.com
 - GitHub: [s-meghana99](https://github.com/s-meghana99)
 
 ## 📈 GitHub Stats
