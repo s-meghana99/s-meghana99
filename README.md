@@ -1,107 +1,109 @@
-# 👋 Hello, I'm **S Meghana**  
-*Aspiring Data Analyst | MCA Graduate*  
-📍 **Mysore, Karnataka** | ✉️ [smeghana215@gmail.com](mailto:smeghana215@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/s-meghana) | 💻 [GitHub](https://github.com/smeghana215)
+# 🌟 S MEGHANA - Software Developer | MCA Graduate 🌟
+
+📍 **Location:** Mysore, Karnataka  
+📧 **Email:** [smeghana215@gmail.com](mailto:smeghana215@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/s-meghana](https://linkedin.com/in/s-meghana)  
+📱 **Phone:** +91 9606225779  
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-I am an **aspiring data analyst** and an **MCA graduate** with a strong passion for transforming raw data into valuable insights. With a focus on **Python**, **SQL**, and **data visualization**, I am eager to leverage my skills to contribute to data-driven decision-making and innovative problem-solving.
+I am an **ambitious and dedicated MCA graduate** with a passion for technology and problem-solving. I am eager to apply my academic learning in the real-world tech landscape and contribute to innovative solutions. My goal is to support organizations in streamlining their processes and helping them achieve greater efficiency and success.
 
-**Currently**:
-- 💻 Learning advanced **machine learning** techniques and **data analysis** methods
-- 🚀 Seeking opportunities to apply my skills in real-world data challenges
-- 🎯 Passionate about creating intuitive visualizations and predictive models
+I am particularly interested in **Software Development**, **Automation**, and **Data Science**. With a strong foundation in Python, SQL, and web development, I am continuously looking for opportunities to enhance my skills and collaborate on exciting projects.
 
 ---
 
-## 🎓 Education
+## 📚 Education
 
-**Master of Computer Applications (MCA)**  
-*Visvesvaraya Technological University* | 2020 - 2022  
-- Focus Areas: Data Analytics, Machine Learning, Database Management
+**Master of Computer Applications**  
+Visvesvaraya Technological University | 2020-2022  
+- CGPA: 73.025%
 
-**Bachelor of Science (B.Sc.)**  
-*University of Mysore* | 2017 - 2020  
-- Focus Areas: Mathematics, Programming, Basic Data Science
-
----
-
-## 💻 Skills & Tools
-
-### **Languages**  
-- <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"> **Python**  
-- <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL"> **SQL**  
-- <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"> **HTML**  
-- <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"> **CSS**
-
-### **Tools & Technologies**  
-- <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-plain.svg" alt="Excel"> **Microsoft Excel**  
-- <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau"> **Tableau**  
-- <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Data Studio"> **Google Data Studio**  
----
-
-## 🚀 Key Projects
-
-### 📊 **IPL Auction Strategy: A Data-Driven Approach**  
-*June 2023*  
-- Developed predictive models to optimize auction strategies for IPL teams based on **historical performance data**.  
-- Increased decision-making accuracy by **25%** using **Python** and **Matplotlib** for visualization.
-
-### 📰 **Fake News Detection Using NLP**  
-*April 2022 - May 2022*  
-- Built a **machine learning model** to identify fake news with **80% accuracy** using **Natural Language Processing (NLP)**.  
-- Created a **web application** that provides real-time feedback on article credibility.
-
-### 📈 **Sales Data Insights for Business Optimization**  
-*March 2023*  
-- Analyzed sales data from multiple stores to identify trends and areas for improvement.  
-- Designed interactive dashboards using **Google Data Studio** and **SQL** to track performance.
+**Bachelor of Science**  
+University of Mysore | 2017-2020  
+- Percentage: 68.53%
 
 ---
 
-## 🏅 Certifications
+## 🛠 Skills
 
-- **SQL for Data Science** — *Coursera* (Nov 2023)  
-- **Data Analysis with Python** — *freeCodeCamp* (Dec 2023)  
-- **Excel for Data Analysis** — *Coursera* (Nov 2023)  
-- **Tableau Fundamentals** — *Udemy* (Feb 2023)  
-- **Accenture North America Data Analytics & Visualization Job Simulation** — *Forage* (Jan 2024)
+### Programming Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+
+### Tools & Technologies:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0C38?style=flat&logo=jupyter&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+### Other Skills:
+Problem Solving, Attention to Detail, Communication  
+
+---
+
+## 💼 Internship Experience
+
+### Robotic Process Automation Intern
+**Clointfusion Pvt Ltd, Mysore**  
+_March 2022_  
+- Automated **50+ repetitive tasks**, improving operational efficiency by **40%**.  
+- Developed and tested **10+ RPA scripts** to reduce manual effort and improve accuracy by **35%**.  
+- Worked closely with teams to implement solutions for **data entry** and **processing tasks**.
+
+---
+
+## 🚀 Projects
+
+### Strategic Auction Planning for New IPL Franchise  
+**June 2023**  
+- Analyzed historical data from **5 IPL seasons** to build predictive models for better auction strategy.  
+- Developed visualizations to present player performance, enhancing decision-making by **25%**.
+
+### Fake News Detection using Data Science  
+**April 2022 - May 2022**  
+- Implemented **NLP** and **machine learning techniques** to classify news articles, achieving **80%** accuracy in detecting fake news.  
+- Developed a **web-based application** that provides real-time feedback on article credibility.
+
+---
+
+## 🎓 Certifications & Courses
+
+- **Accenture North America Data Analytics and Visualization Job Simulation** (Forage) - _January 2024_  
+- **SQL Basics Certificate** (HackerRank) - _November 2023_  
+- **Excel Basics for Data Analysis** (Coursera) - _November 2023_  
+- **Full Stack Development** (Tap Academy) - _December 2022_
 
 ---
 
 ## 🌍 Languages
 
-- 🗣️ **English**: Fluent  
-- 🏞️ **Kannada**: Native  
-- 🇮🇳 **Hindi**: Intermediate
+- **English**  
+- **Kannada**  
+- **Hindi**
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![S Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smeghana215&show_icons=true&theme=radical&hide_border=true)
-
----
-
-## 🌟 GitHub Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=smeghana215&theme=radical&hide_border=true)
+![S Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-meghana&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
-## 🤝 Let’s Connect!
+## 🌱 Let's Connect!
 
-I'm always open to collaborating on **data-driven projects** and exploring opportunities in the field of **Data Science**. Feel free to connect with me if you'd like to share knowledge, discuss insights, or explore potential projects!
+Feel free to explore my projects, reach out if you're interested in collaboration, or just want to chat about technology!
 
-- **Email**: [smeghana215@gmail.com](mailto:smeghana215@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/s-meghana](https://linkedin.com/in/s-meghana)  
-- **Phone**: +91 9606225779
+🔗 [LinkedIn](https://linkedin.com/in/s-meghana)  
+🐦 [Twitter](https://twitter.com/smeghana) (Optional)
 
 ---
 
-## 🌐 Social Links & Badges
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/s-meghana)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/smeghana215)
-
+> "The only way to do great work is to love what you do."  
+– Steve Jobs
